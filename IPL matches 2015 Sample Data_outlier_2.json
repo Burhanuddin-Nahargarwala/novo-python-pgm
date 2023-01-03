@@ -61,7 +61,7 @@
     "match_number": 6,
     "venue": "Feroz Shah Kotla, Delhi",
     "toss_winner": "Rajasthan Royals",
-    "toss_decision": "",
+    "toss_decision": null,
     "umpire_1": "SD Fry",
     "umpire_2": "CB Gaffaney",
     "tv_umpire": "CK Nandan",
@@ -97,7 +97,7 @@
     "match_number": 7,
     "venue": "Wankhede Stadium, Mumbai",
     "toss_winner": "Mumbai Indians",
-    "toss_decision": "",
+    "toss_decision": null,
     "umpire_1": "AK Chaudhary",
     "umpire_2": "K Srinivasan",
     "tv_umpire": "K Srinath",
@@ -158,7 +158,7 @@
     "match_referee": "Chinmay Sharma",
     "winner": "Rajasthan Royals",
     "win_by": 7,
-    "winner_type": "",
+    "winner_type": null,
     "player_of_match_1": "SPD Smith"
   },
   {
@@ -176,7 +176,7 @@
     "match_referee": "GF Labrooy",
     "winner": "Delhi Daredevils",
     "win_by": 5,
-    "winner_type": "",
+    "winner_type": null,
     "player_of_match_1": "MA Agarwal"
   }
 ]

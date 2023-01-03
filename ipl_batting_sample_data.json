@@ -210,7 +210,7 @@
     "Match_id": 829707,
     "Innings_no": 2,
     "Batsmen": "JP Duminy",
-    "Runs": "",
+    "Runs": null,
     "extras": 0,
     "Balls": 5,
     "Strike rate (%)": 100
@@ -219,7 +219,7 @@
     "Match_id": 829707,
     "Innings_no": 2,
     "Batsmen": "KM Jadhav",
-    "Runs": "",
+    "Runs": null,
     "extras": 0,
     "Balls": 20,
     "Strike rate (%)": 100
@@ -228,7 +228,7 @@
     "Match_id": 829707,
     "Innings_no": 2,
     "Batsmen": "MA Agarwal",
-    "Runs": "",
+    "Runs": null,
     "extras": 0,
     "Balls": 12,
     "Strike rate (%)": 125
@@ -330,7 +330,7 @@
     "Runs": 5,
     "extras": 0,
     "Balls": 6,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829709,
@@ -339,7 +339,7 @@
     "Runs": 0,
     "extras": 1,
     "Balls": 3,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829709,
@@ -348,7 +348,7 @@
     "Runs": 24,
     "extras": 2,
     "Balls": 29,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829709,
@@ -357,7 +357,7 @@
     "Runs": 23,
     "extras": 1,
     "Balls": 22,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829709,
@@ -435,7 +435,7 @@
     "Match_id": 829711,
     "Innings_no": 1,
     "Batsmen": "DR Smith",
-    "Runs": "",
+    "Runs": null,
     "extras": 8,
     "Balls": 27,
     "Strike rate (%)": 100
@@ -444,7 +444,7 @@
     "Match_id": 829711,
     "Innings_no": 1,
     "Batsmen": "MS Dhoni",
-    "Runs": "",
+    "Runs": null,
     "extras": 0,
     "Balls": 29,
     "Strike rate (%)": 182.76
@@ -453,7 +453,7 @@
     "Match_id": 829711,
     "Innings_no": 1,
     "Batsmen": "RA Jadeja",
-    "Runs": "",
+    "Runs": null,
     "extras": 0,
     "Balls": 1,
     "Strike rate (%)": 0
@@ -501,7 +501,7 @@
     "Runs": 4,
     "extras": 1,
     "Balls": 7,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829711,
@@ -510,7 +510,7 @@
     "Runs": 15,
     "extras": 0,
     "Balls": 11,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829711,
@@ -519,7 +519,7 @@
     "Runs": 2,
     "extras": 0,
     "Balls": 2,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829711,
@@ -528,7 +528,7 @@
     "Runs": 22,
     "extras": 0,
     "Balls": 15,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829711,
@@ -678,7 +678,7 @@
     "Match_id": 829713,
     "Innings_no": 2,
     "Batsmen": "V Kohli",
-    "Runs": "",
+    "Runs": null,
     "extras": 0,
     "Balls": 15,
     "Strike rate (%)": 86.67
@@ -687,7 +687,7 @@
     "Match_id": 829715,
     "Innings_no": 1,
     "Batsmen": "AD Mathews",
-    "Runs": "",
+    "Runs": null,
     "extras": 1,
     "Balls": 15,
     "Strike rate (%)": 180
@@ -696,7 +696,7 @@
     "Match_id": 829715,
     "Innings_no": 1,
     "Batsmen": "JP Duminy",
-    "Runs": "",
+    "Runs": null,
     "extras": 4,
     "Balls": 40,
     "Strike rate (%)": 110
@@ -705,7 +705,7 @@
     "Match_id": 829715,
     "Innings_no": 1,
     "Batsmen": "MA Agarwal",
-    "Runs": "",
+    "Runs": null,
     "extras": 0,
     "Balls": 21,
     "Strike rate (%)": 176.19
@@ -735,7 +735,7 @@
     "Runs": 47,
     "extras": 3,
     "Balls": 41,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829715,
@@ -744,7 +744,7 @@
     "Runs": 13,
     "extras": 0,
     "Balls": 6,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829715,
@@ -753,7 +753,7 @@
     "Runs": 54,
     "extras": 3,
     "Balls": 28,
-    "Strike rate (%)": ""
+    "Strike rate (%)": null
   },
   {
     "Match_id": 829715,
@@ -912,7 +912,7 @@
     "Match_id": 829717,
     "Innings_no": 2,
     "Batsmen": "Harbhajan Singh",
-    "Runs": "",
+    "Runs": null,
     "extras": 4,
     "Balls": 27,
     "Strike rate (%)": 237.04
@@ -921,7 +921,7 @@
     "Match_id": 829717,
     "Innings_no": 2,
     "Batsmen": "J Suchith",
-    "Runs": "",
+    "Runs": null,
     "extras": 0,
     "Balls": 21,
     "Strike rate (%)": 161.9
@@ -930,7 +930,7 @@
     "Match_id": 829717,
     "Innings_no": 2,
     "Batsmen": "KA Pollard",
-    "Runs": "",
+    "Runs": null,
     "extras": 1,
     "Balls": 21,
     "Strike rate (%)": 95.24
