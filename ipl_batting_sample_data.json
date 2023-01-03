@@ -1,0 +1,947 @@
+[
+  {
+    "Match_id": 829705,
+    "Innings_no": 1,
+    "Batsmen": "AJ Finch",
+    "Runs": 5,
+    "extras": 1,
+    "Balls": 4,
+    "Strike rate (%)": 125
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 1,
+    "Batsmen": "AP Tare",
+    "Runs": 7,
+    "extras": 1,
+    "Balls": 8,
+    "Strike rate (%)": 87.5
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 1,
+    "Batsmen": "AT Rayudu",
+    "Runs": 0,
+    "extras": 0,
+    "Balls": 2,
+    "Strike rate (%)": 0
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 1,
+    "Batsmen": "CJ Anderson",
+    "Runs": 55,
+    "extras": 0,
+    "Balls": 41,
+    "Strike rate (%)": 134.15
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 1,
+    "Batsmen": "RG Sharma",
+    "Runs": 98,
+    "extras": 1,
+    "Balls": 66,
+    "Strike rate (%)": 148.48
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 2,
+    "Batsmen": "G Gambhir",
+    "Runs": 57,
+    "extras": 3,
+    "Balls": 44,
+    "Strike rate (%)": 129.55
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 2,
+    "Batsmen": "MK Pandey",
+    "Runs": 40,
+    "extras": 0,
+    "Balls": 24,
+    "Strike rate (%)": 166.67
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 2,
+    "Batsmen": "RV Uthappa",
+    "Runs": 9,
+    "extras": 0,
+    "Balls": 12,
+    "Strike rate (%)": 75
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 2,
+    "Batsmen": "SA Yadav",
+    "Runs": 46,
+    "extras": 1,
+    "Balls": 21,
+    "Strike rate (%)": 219.05
+  },
+  {
+    "Match_id": 829705,
+    "Innings_no": 2,
+    "Batsmen": "YK Pathan",
+    "Runs": 14,
+    "extras": 0,
+    "Balls": 12,
+    "Strike rate (%)": 116.67
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "BB McCullum",
+    "Runs": 4,
+    "extras": 0,
+    "Balls": 2,
+    "Strike rate (%)": 200
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "DJ Bravo",
+    "Runs": 1,
+    "extras": 0,
+    "Balls": 3,
+    "Strike rate (%)": 33.33
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "DR Smith",
+    "Runs": 34,
+    "extras": 11,
+    "Balls": 31,
+    "Strike rate (%)": 109.68
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "F du Plessis",
+    "Runs": 32,
+    "extras": 1,
+    "Balls": 25,
+    "Strike rate (%)": 128
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "MM Sharma",
+    "Runs": 2,
+    "extras": 0,
+    "Balls": 1,
+    "Strike rate (%)": 200
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "MS Dhoni",
+    "Runs": 30,
+    "extras": 1,
+    "Balls": 27,
+    "Strike rate (%)": 111.11
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "R Ashwin",
+    "Runs": 12,
+    "extras": 0,
+    "Balls": 8,
+    "Strike rate (%)": 150
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "RA Jadeja",
+    "Runs": 17,
+    "extras": 1,
+    "Balls": 19,
+    "Strike rate (%)": 89.47
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 1,
+    "Batsmen": "SK Raina",
+    "Runs": 4,
+    "extras": 0,
+    "Balls": 7,
+    "Strike rate (%)": 57.14
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "A Mishra",
+    "Runs": 4,
+    "extras": 1,
+    "Balls": 5,
+    "Strike rate (%)": 80
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "CM Gautam",
+    "Runs": 4,
+    "extras": 0,
+    "Balls": 5,
+    "Strike rate (%)": 80
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "Imran Tahir",
+    "Runs": 2,
+    "extras": 0,
+    "Balls": 2,
+    "Strike rate (%)": 100
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "JA Morkel",
+    "Runs": 73,
+    "extras": 4,
+    "Balls": 59,
+    "Strike rate (%)": 123.73
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "JP Duminy",
+    "Runs": "",
+    "extras": 0,
+    "Balls": 5,
+    "Strike rate (%)": 100
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "KM Jadhav",
+    "Runs": "",
+    "extras": 0,
+    "Balls": 20,
+    "Strike rate (%)": 100
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "MA Agarwal",
+    "Runs": "",
+    "extras": 0,
+    "Balls": 12,
+    "Strike rate (%)": 125
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "NM Coulter-Nile",
+    "Runs": 5,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 125
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "SS Iyer",
+    "Runs": 7,
+    "extras": 0,
+    "Balls": 7,
+    "Strike rate (%)": 100
+  },
+  {
+    "Match_id": 829707,
+    "Innings_no": 2,
+    "Batsmen": "Yuvraj Singh",
+    "Runs": 9,
+    "extras": 0,
+    "Balls": 6,
+    "Strike rate (%)": 150
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 1,
+    "Batsmen": "AM Rahane",
+    "Runs": 0,
+    "extras": 4,
+    "Balls": 8,
+    "Strike rate (%)": 0
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 1,
+    "Batsmen": "CH Morris",
+    "Runs": 6,
+    "extras": 1,
+    "Balls": 8,
+    "Strike rate (%)": 75
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 1,
+    "Batsmen": "DJ Hooda",
+    "Runs": 30,
+    "extras": 0,
+    "Balls": 15,
+    "Strike rate (%)": 200
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 1,
+    "Batsmen": "JP Faulkner",
+    "Runs": 46,
+    "extras": 4,
+    "Balls": 37,
+    "Strike rate (%)": 124.32
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 1,
+    "Batsmen": "KK Nair",
+    "Runs": 8,
+    "extras": 1,
+    "Balls": 11,
+    "Strike rate (%)": 72.73
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 1,
+    "Batsmen": "SPD Smith",
+    "Runs": 33,
+    "extras": 1,
+    "Balls": 24,
+    "Strike rate (%)": 137.5
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 1,
+    "Batsmen": "STR Binny",
+    "Runs": 13,
+    "extras": 10,
+    "Balls": 19,
+    "Strike rate (%)": 68.42
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 1,
+    "Batsmen": "SV Samson",
+    "Runs": 5,
+    "extras": 0,
+    "Balls": 6,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "Anureet Singh",
+    "Runs": 0,
+    "extras": 1,
+    "Balls": 3,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "AR Patel",
+    "Runs": 24,
+    "extras": 2,
+    "Balls": 29,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "DA Miller",
+    "Runs": 23,
+    "extras": 1,
+    "Balls": 22,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "GJ Bailey",
+    "Runs": 24,
+    "extras": 2,
+    "Balls": 20,
+    "Strike rate (%)": 120
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "GJ Maxwell",
+    "Runs": 7,
+    "extras": 0,
+    "Balls": 5,
+    "Strike rate (%)": 140
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "Karanveer Singh",
+    "Runs": 5,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 125
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "M Vijay",
+    "Runs": 37,
+    "extras": 3,
+    "Balls": 35,
+    "Strike rate (%)": 105.71
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "MG Johnson",
+    "Runs": 0,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 0
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "V Sehwag",
+    "Runs": 0,
+    "extras": 0,
+    "Balls": 1,
+    "Strike rate (%)": 0
+  },
+  {
+    "Match_id": 829709,
+    "Innings_no": 2,
+    "Batsmen": "WP Saha",
+    "Runs": 7,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 175
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 1,
+    "Batsmen": "BB McCullum",
+    "Runs": 100,
+    "extras": 7,
+    "Balls": 59,
+    "Strike rate (%)": 169.49
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 1,
+    "Batsmen": "DR Smith",
+    "Runs": "",
+    "extras": 8,
+    "Balls": 27,
+    "Strike rate (%)": 100
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 1,
+    "Batsmen": "MS Dhoni",
+    "Runs": "",
+    "extras": 0,
+    "Balls": 29,
+    "Strike rate (%)": 182.76
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 1,
+    "Batsmen": "RA Jadeja",
+    "Runs": "",
+    "extras": 0,
+    "Balls": 1,
+    "Strike rate (%)": 0
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 1,
+    "Batsmen": "SK Raina",
+    "Runs": 14,
+    "extras": 0,
+    "Balls": 12,
+    "Strike rate (%)": 116.67
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 2,
+    "Batsmen": "DA Warner",
+    "Runs": 53,
+    "extras": 7,
+    "Balls": 43,
+    "Strike rate (%)": 123.26
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 2,
+    "Batsmen": "KL Rahul",
+    "Runs": 5,
+    "extras": 0,
+    "Balls": 8,
+    "Strike rate (%)": 62.5
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 2,
+    "Batsmen": "KS Williamson",
+    "Runs": 26,
+    "extras": 3,
+    "Balls": 20,
+    "Strike rate (%)": 130
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 2,
+    "Batsmen": "KV Sharma",
+    "Runs": 4,
+    "extras": 1,
+    "Balls": 7,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 2,
+    "Batsmen": "NV Ojha",
+    "Runs": 15,
+    "extras": 0,
+    "Balls": 11,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 2,
+    "Batsmen": "Parvez Rasool",
+    "Runs": 2,
+    "extras": 0,
+    "Balls": 2,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 2,
+    "Batsmen": "RS Bopara",
+    "Runs": 22,
+    "extras": 0,
+    "Balls": 15,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829711,
+    "Innings_no": 2,
+    "Batsmen": "S Dhawan",
+    "Runs": 26,
+    "extras": 0,
+    "Balls": 18,
+    "Strike rate (%)": 144.44
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 1,
+    "Batsmen": "AD Russell",
+    "Runs": 41,
+    "extras": 1,
+    "Balls": 17,
+    "Strike rate (%)": 241.18
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 1,
+    "Batsmen": "G Gambhir",
+    "Runs": 58,
+    "extras": 3,
+    "Balls": 48,
+    "Strike rate (%)": 120.83
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 1,
+    "Batsmen": "MK Pandey",
+    "Runs": 23,
+    "extras": 0,
+    "Balls": 15,
+    "Strike rate (%)": 153.33
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 1,
+    "Batsmen": "RV Uthappa",
+    "Runs": 35,
+    "extras": 1,
+    "Balls": 28,
+    "Strike rate (%)": 125
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 1,
+    "Batsmen": "SA Yadav",
+    "Runs": 11,
+    "extras": 0,
+    "Balls": 9,
+    "Strike rate (%)": 122.22
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 1,
+    "Batsmen": "Shakib Al Hasan",
+    "Runs": 0,
+    "extras": 1,
+    "Balls": 2,
+    "Strike rate (%)": 0
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 1,
+    "Batsmen": "YK Pathan",
+    "Runs": 3,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 75
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "AB de Villiers",
+    "Runs": 28,
+    "extras": 1,
+    "Balls": 13,
+    "Strike rate (%)": 215.38
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "AN Ahmed",
+    "Runs": 5,
+    "extras": 0,
+    "Balls": 2,
+    "Strike rate (%)": 250
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "CH Gayle",
+    "Runs": 96,
+    "extras": 7,
+    "Balls": 57,
+    "Strike rate (%)": 168.42
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "DJG Sammy",
+    "Runs": 7,
+    "extras": 0,
+    "Balls": 9,
+    "Strike rate (%)": 77.78
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "HV Patel",
+    "Runs": 9,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 225
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "KD Karthik",
+    "Runs": 6,
+    "extras": 0,
+    "Balls": 8,
+    "Strike rate (%)": 75
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "Mandeep Singh",
+    "Runs": 6,
+    "extras": 0,
+    "Balls": 3,
+    "Strike rate (%)": 200
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "SA Abbott",
+    "Runs": 1,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 25
+  },
+  {
+    "Match_id": 829713,
+    "Innings_no": 2,
+    "Batsmen": "V Kohli",
+    "Runs": "",
+    "extras": 0,
+    "Balls": 15,
+    "Strike rate (%)": 86.67
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 1,
+    "Batsmen": "AD Mathews",
+    "Runs": "",
+    "extras": 1,
+    "Balls": 15,
+    "Strike rate (%)": 180
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 1,
+    "Batsmen": "JP Duminy",
+    "Runs": "",
+    "extras": 4,
+    "Balls": 40,
+    "Strike rate (%)": 110
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 1,
+    "Batsmen": "MA Agarwal",
+    "Runs": "",
+    "extras": 0,
+    "Balls": 21,
+    "Strike rate (%)": 176.19
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 1,
+    "Batsmen": "SS Iyer",
+    "Runs": 40,
+    "extras": 4,
+    "Balls": 34,
+    "Strike rate (%)": 117.65
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 1,
+    "Batsmen": "Yuvraj Singh",
+    "Runs": 27,
+    "extras": 0,
+    "Balls": 17,
+    "Strike rate (%)": 158.82
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "AM Rahane",
+    "Runs": 47,
+    "extras": 3,
+    "Balls": 41,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "CH Morris",
+    "Runs": 13,
+    "extras": 0,
+    "Balls": 6,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "DJ Hooda",
+    "Runs": 54,
+    "extras": 3,
+    "Balls": 28,
+    "Strike rate (%)": ""
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "JP Faulkner",
+    "Runs": 17,
+    "extras": 0,
+    "Balls": 11,
+    "Strike rate (%)": 154.55
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "KK Nair",
+    "Runs": 20,
+    "extras": 0,
+    "Balls": 12,
+    "Strike rate (%)": 166.67
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "SPD Smith",
+    "Runs": 10,
+    "extras": 0,
+    "Balls": 9,
+    "Strike rate (%)": 111.11
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "STR Binny",
+    "Runs": 1,
+    "extras": 0,
+    "Balls": 2,
+    "Strike rate (%)": 50
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "SV Samson",
+    "Runs": 11,
+    "extras": 0,
+    "Balls": 12,
+    "Strike rate (%)": 91.67
+  },
+  {
+    "Match_id": 829715,
+    "Innings_no": 2,
+    "Batsmen": "TG Southee",
+    "Runs": 7,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 175
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 1,
+    "Batsmen": "DA Miller",
+    "Runs": 24,
+    "extras": 1,
+    "Balls": 24,
+    "Strike rate (%)": 100
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 1,
+    "Batsmen": "GJ Bailey",
+    "Runs": 61,
+    "extras": 2,
+    "Balls": 33,
+    "Strike rate (%)": 184.85
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 1,
+    "Batsmen": "GJ Maxwell",
+    "Runs": 6,
+    "extras": 0,
+    "Balls": 4,
+    "Strike rate (%)": 150
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 1,
+    "Batsmen": "M Vijay",
+    "Runs": 35,
+    "extras": 1,
+    "Balls": 29,
+    "Strike rate (%)": 120.69
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 1,
+    "Batsmen": "MG Johnson",
+    "Runs": 3,
+    "extras": 1,
+    "Balls": 7,
+    "Strike rate (%)": 42.86
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 1,
+    "Batsmen": "R Dhawan",
+    "Runs": 6,
+    "extras": 0,
+    "Balls": 6,
+    "Strike rate (%)": 100
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 1,
+    "Batsmen": "V Sehwag",
+    "Runs": 36,
+    "extras": 1,
+    "Balls": 20,
+    "Strike rate (%)": 180
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 2,
+    "Batsmen": "AJ Finch",
+    "Runs": 8,
+    "extras": 1,
+    "Balls": 14,
+    "Strike rate (%)": 57.14
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 2,
+    "Batsmen": "AP Tare",
+    "Runs": 7,
+    "extras": 0,
+    "Balls": 10,
+    "Strike rate (%)": 70
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 2,
+    "Batsmen": "AT Rayudu",
+    "Runs": 13,
+    "extras": 1,
+    "Balls": 19,
+    "Strike rate (%)": 68.42
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 2,
+    "Batsmen": "CJ Anderson",
+    "Runs": 5,
+    "extras": 1,
+    "Balls": 11,
+    "Strike rate (%)": 45.45
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 2,
+    "Batsmen": "Harbhajan Singh",
+    "Runs": "",
+    "extras": 4,
+    "Balls": 27,
+    "Strike rate (%)": 237.04
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 2,
+    "Batsmen": "J Suchith",
+    "Runs": "",
+    "extras": 0,
+    "Balls": 21,
+    "Strike rate (%)": 161.9
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 2,
+    "Batsmen": "KA Pollard",
+    "Runs": "",
+    "extras": 1,
+    "Balls": 21,
+    "Strike rate (%)": 95.24
+  },
+  {
+    "Match_id": 829717,
+    "Innings_no": 2,
+    "Batsmen": "RG Sharma",
+    "Runs": 0,
+    "extras": 0,
+    "Balls": 2,
+    "Strike rate (%)": 0
+  }
+]
